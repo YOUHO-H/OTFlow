@@ -11,3 +11,6 @@ Install requirements and dependencies via:
 ```
 pip install -r requirements.txt
 ```
+
+# Datasets
+You can download the preprocessed data [here](https://drive.google.com/file/d/1_bMf9B52cQ_EobzueqnwIDa69Vo9RkJF/view?usp=sharing).
