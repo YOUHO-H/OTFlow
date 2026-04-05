@@ -7,3 +7,7 @@ conda activate otflow
 conda update -n base -c defaults conda
 pip install --upgrade pip
 ```
+Install requirements and dependencies via:
+```
+pip install -r requirements.txt
+```
