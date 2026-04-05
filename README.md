@@ -1,5 +1,5 @@
 # Installation
-To setup the corresponding \texttt{conda} environment run:
+To setup the corresponding `conda` environment run:
 ```bash
 conda create --name otflow python=3.9.5
 conda activate otflow
