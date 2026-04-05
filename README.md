@@ -17,3 +17,15 @@ You can download the preprocessed data [here](https://drive.google.com/file/d/1_
 ```bash
 unzip datasets.zip
 ```
+
+# Run the experiments:
+Celeba
+```bash
+chmod +x run_celeba.sh
+./run_celeba.sh
+```
+Cell
+```bash
+chmod +x run_cell.sh
+./run_cell.sh
+```
